@@ -1,0 +1,29 @@
+A equipe realizou todas as tarefas e desafios que foram passados
+São eles:
+
+    Boot/Instalação das isos do Firewall pfsense e do Windows Server em suas respectivas máquinas;
+ 
+    Configuração do pfsense para acesso a endereço Web via Lan e configuração  do mesmo pelo site; 
+
+    Configuração do Roteador Wi-Fi pra acesso remoto da internet;
+
+    Linkagem do Firewall, do Windows Server e dos Desktops através do Roteador;
+
+    Instalação do DHCP, DNS, AD DS e configurações dos mesmos;
+
+    Configuração do Domínio e criação dos usuários e das suas respectivas pastas;
+
+    Configuração das GPOs, horário de Logon dos funcionários e seus scripts de inicialização de acordo com cada função;
+
+    Teste de alguns usuários, do funcionamento da GPO, permissões e compartilhamento de usuários etc...
+  E configuração/Instalação de todas as aplicações para acesso remoto ao pfsense pela Wan;
+
+    Início da instalação do Ubuntu Server e Início do Desenvolvimento do site;
+
+    Finalização do site e instalações do ISS para Upar a versão ADMWindows do site no Windows Server;
+
+    Finalização e configuração do Ubuntu e configuração do Mysql e do Apache2;
+
+    Up da versão Linux do site nos servidores Apache;
+
+    E por fim a instalação e configuração do Tomcat;
